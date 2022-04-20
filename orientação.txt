@@ -1,0 +1,11 @@
+CTRL + Shift + i = para abrir teste.
+
+const minhaConta = new ContaCorrente(1, 234, true)
+
+minhaConta.saldo
+
+minhaConta.depositar(1000)
+
+minhaConta.sacar(500)
+
+minhaConta.sacar(600)
