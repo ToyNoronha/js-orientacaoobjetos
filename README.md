@@ -1,4 +1,5 @@
 # Orientação a Objetos em Javascript.
+Esse repósitorio faz parte das atividades práticas do Basecamp de Javascript, ministrado pela Stephany Nusch (https://github.com/stebsnusch), dentro da plataforma DIO. 
 
 # Atividade: Conta Bancária
 Nesta atividade, vamos testar os conceitos de Orientação a Objetos simulando a criação de diversos tipos de contas bancárias e operações disponíveis em cada uma.
